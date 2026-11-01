@@ -54,4 +54,4 @@ Filerna läses i namnordning, så döp dem efter datum (`forsaljning_2026-01.csv
 Programmet är byggt för att lätt kunna anpassas till andra kolumner, filformat (semikolon, svenska decimaltecken), fler kontroller eller andra sammanställningar.
 
 ---
-Kenneth · [din e-post]
+Kenneth · [Kenneth-Johansson@outlook.com]
