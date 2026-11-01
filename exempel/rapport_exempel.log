@@ -1,0 +1,14 @@
+2026-11-01 23:25:44  INFO  Läste forsaljning_2026-01.csv: 10 rader
+2026-11-01 23:25:44  INFO  Läste forsaljning_2026-02.csv: 10 rader
+2026-11-01 23:25:44  INFO  Läste forsaljning_2026-03.csv: 10 rader
+2026-11-01 23:25:44  INFO  Utesluten: forsaljning_2026-01.csv rad 6 (order 1002) – Exakt dubblett av tidigare rad
+2026-11-01 23:25:44  INFO  Utesluten: forsaljning_2026-02.csv rad 4 (order 1009) – Exakt dubblett av tidigare rad
+2026-11-01 23:25:44  INFO  Utesluten: forsaljning_2026-03.csv rad 7 (order 1017) – Exakt dubblett av tidigare rad
+2026-11-01 23:25:44  INFO  Utesluten: forsaljning_2026-01.csv rad 8 (order 1006) – Saknar: date
+2026-11-01 23:25:44  INFO  Utesluten: forsaljning_2026-02.csv rad 6 (order 1013) – Saknar: product
+2026-11-01 23:25:44  INFO  Utesluten: forsaljning_2026-03.csv rad 4 (order 1021) – Saknar: unit_price_sek
+2026-11-01 23:25:44  INFO  Inlästa rader: 30
+2026-11-01 23:25:44  INFO  Borttagna dubbletter: 3
+2026-11-01 23:25:44  INFO  Rader med saknade värden: 3
+2026-11-01 23:25:44  INFO  Godkända rader: 24
+2026-11-01 23:25:44  INFO  Rapport skapad: output/rapport.xlsx
